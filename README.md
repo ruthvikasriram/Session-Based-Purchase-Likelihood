@@ -42,9 +42,6 @@ This project analyzes user session data from an e-commerce website to predict **
   - **Modeling & Evaluation:** Logistic regression, performance metrics, and feature importance interpretation.  
   - **Visualization & Reporting:** Clear charts and heatmaps for executive-level insights.  
 
-- **Portfolio Relevance:**  
-  - Showcases abilities in **data-driven decision making**, **predictive modeling**, and **storytelling with data**, which are key for a **Digital Marketing Analyst or E-commerce Analyst role**.
-
 ## Key Learnings
 - Understanding how visitor behavior correlates with purchase decisions.  
 - The importance of feature engineering in predictive analytics.  
@@ -56,4 +53,5 @@ Session-Based-Purchase-Likelihood/
 │
 ├── online_shoppers_intention.csv/             # Dataset
 ├── Session-Based-Purchase-Likelihood.ipynb/   # Notebook containing code for data preprocessing, modeling, and evaluation
+├── Insights_using_SQL.sql                     # SQL to draw useful insights out of data
 ├── README.md                                  # Project documentation
