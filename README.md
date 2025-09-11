@@ -53,5 +53,6 @@ Session-Based-Purchase-Likelihood/
 │
 ├── online_shoppers_intention.csv/             # Dataset
 ├── Session-Based-Purchase-Likelihood.ipynb/   # Notebook containing code for data preprocessing, modeling, and evaluation
-├── Insights_using_SQL.sql                     # SQL to draw useful insights out of data
-├── README.md                                  # Project documentation
+├── Insights_using_SQL.sql/                    # SQL to draw useful insights out of data
+├── Python_SQL_script.ipynb/                   # Notebook contaning pytho,SQL code for some insightful oputputs
+├── README.md/                                 # Project documentation
